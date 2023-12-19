@@ -26,8 +26,8 @@ This repository showcases a collection of Web3 security reviews conducted by @ac
 - **Ongoing Support:** Offering continuous support to address security concerns, implement updates, and adapt to evolving threats in the Web3 space.
 
 ## Contact Information
-To request an audit or get information, contact me:
+To request an audit or get information, contact me: 
 
-- Email: edoardo.carradori.96@gmail.com
-- Twitter: @aciDrums7
-- LinkedIn: https://www.linkedin.com/in/edoardo-carradori-866233223/?locale=en_US
+- Email: edoardo.carradori.96@gmail.com  
+- Twitter: [ @aciDrums7](https://twitter.com/aciDrums7)
+- LinkedIn: https://www.linkedin.com/in/edoardo-carradori-866233223/?locale=en_US 
